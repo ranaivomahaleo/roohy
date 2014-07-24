@@ -5,7 +5,7 @@ ROOHY C++ libraries are a set of open-source tools for modelling multi-step dyna
 ROOHY C++ is a cross-platform library.
 
 Features
-========
+--------
 
 
 
