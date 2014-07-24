@@ -6,9 +6,9 @@ ROOHY C++ is a cross-platform framework.
 
 Features
 --------
-  Coding your own model
-  Directed complex network as list of directed edges
-  Closs-platform framework
+  - Coding your own model
+  - Directed complex network as list of directed edges
+  - Closs-platform framework
   
 
 
